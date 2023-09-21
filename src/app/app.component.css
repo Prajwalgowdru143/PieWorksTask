@@ -1,0 +1,20 @@
+
+
+  .navBar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+  }
+  .navlist{
+    display: flex;
+    flex-direction: row;
+    width: 27vw;
+    justify-content: space-between;
+    font-weight: bold;
+  }
+
+  .navlist a{
+    text-decoration: none;
+  }

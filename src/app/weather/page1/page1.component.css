@@ -1,0 +1,13 @@
+/* Add your CSS styles for Page 1 component here */
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .mat-elevation-z8 {
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  /* Customize styles as needed for your table, buttons, tooltips, etc. */
+  
